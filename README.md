@@ -1,6 +1,11 @@
 # 💫 About Me:
 Hi, folks!
 
+I am a developer focused on building consistent and elegant software, with the purpose of helping people and improving processes through my expertise.
+
+I have experience in architecting, building, and maintaining applications using JavaScript, PHP, Python, and PLSQL, as well as frameworks such as Laravel, Vue.js, React.js, Tailwind CSS, and Bootstrap. In the realm of databases, I am proficient in Oracle, PostgreSQL, and SQLite. Additionally, I am skilled in code versioning practices using Git, with experience on platforms like GitHub and GitLab. I also have a solid understanding of agile methodologies such as Scrum and Kanban, and I use tools like Jira, ClickUp, and Trello to efficiently manage projects.
+
+I am constantly seeking knowledge and improvement, applying my competencies and skills to create solutions that have a positive and significant impact on people's lives.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-murilo) 
