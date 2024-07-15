@@ -23,7 +23,8 @@ I am constantly seeking knowledge and improvement, applying my competencies and 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=brunomuriloc014&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+### 🎵 Recently played:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=brunomuriloc014&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=brun0muril0&icon=1&color=8)](https://visitcount.itsvg.in)
