@@ -22,7 +22,7 @@ I am constantly seeking knowledge and improvement, applying my competencies and 
 ![](https://github-profile-trophy.vercel.app/?username=brun0muril0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🎵 Recently played:
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=brunomuriloc014&cover_image=false&theme=compact&show_offline=false&background_color=121212&interchange=true)]]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=brunomuriloc014&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=1ed760&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=brunomuriloc014&redirect=true)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
